@@ -1,0 +1,21 @@
+{
+  "name": "vue-js-muse-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "author": "yamada <yamada@reas.jp>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "vue": "^2.5.2",
+    "webpack-dev-server": "^2.9.3"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "repository": "https://github.com/ma-yamada/sample-vue-webpack.git"
+}
